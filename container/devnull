@@ -1,0 +1,18 @@
+{
+    "repositories": [
+        {
+            "repositoryArn": "arn:aws:ecr:eu-west-2:344511226304:repository/multi-model",
+            "registryId": "344511226304",
+            "repositoryName": "multi-model",
+            "repositoryUri": "344511226304.dkr.ecr.eu-west-2.amazonaws.com/multi-model",
+            "createdAt": 1683740824.0,
+            "imageTagMutability": "MUTABLE",
+            "imageScanningConfiguration": {
+                "scanOnPush": false
+            },
+            "encryptionConfiguration": {
+                "encryptionType": "AES256"
+            }
+        }
+    ]
+}
