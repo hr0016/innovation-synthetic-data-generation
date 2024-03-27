@@ -4,10 +4,8 @@
 # In[1]:
 
 
-import numpy as np
-import pandas as pd, csv
-import boto3, io, os, json, pickle, gzip
-import re, pyarrow
+import csv
+import boto3, json 
 import time
 from time import gmtime, strftime
 import sagemaker
